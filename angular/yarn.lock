@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@abp/ng.account.core@~6.0.0":
+  version "6.0.3"
+  resolved "https://registry.npmjs.org/@abp/ng.account.core/-/ng.account.core-6.0.3.tgz#0469e760d4ce163e40e82f7a54205b32246c0214"
+  integrity sha512-YmjxU1QEuopj50t43lOfIwKBkwS+j6FvNgckC/c/mhMjH9jscAJKNerL453JsZX5URp3thRNc+HHAiq5f+Yklw==
+  dependencies:
+    tslib "^2.0.0"
+
 "@abp/ng.account.core@~6.0.1":
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/@abp/ng.account.core/-/ng.account.core-6.0.1.tgz#35560d27ace36e55fcb610451cf6f201efc4118a"
@@ -1675,6 +1682,13 @@
   version "13.0.0"
   resolved "https://registry.yarnpkg.com/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-13.0.0.tgz#1d2ba17cd5f47a38b7ae2ad2fa17010911091395"
   integrity sha512-aumflJ24VVOQ6kIGmpaWmjqfreRsXOCf/l2nOxPO6Y+d7Pit6aZthyjO7F0bRMutv6n+B/ma18GKvhhBcMepUw==
+  dependencies:
+    tslib "^2.3.0"
+
+"@ng-bootstrap/ng-bootstrap@^12.0.0-beta.4":
+  version "12.1.2"
+  resolved "https://registry.npmjs.org/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-12.1.2.tgz#19f21313234fe21090ba50a7721046ed5d9928e1"
+  integrity sha512-p27c+mYVdHiJMYrj5hwClVJxLdiZxafAqlbw1sdJh2xJ1rGOe+H/kCf5YDRbhlHqRN+34Gr0RQqIUeD1I2V8hg==
   dependencies:
     tslib "^2.3.0"
 
